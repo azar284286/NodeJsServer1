@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Информация!</title>
+        <link rel="shortcut icon" href="/Bropri.ico" type="image/x-icon">
+        <link rel="stylesheet" href="Style.css">
+    </head>
+    <body>
+        <h1> Некая информация </h1>
+        <p class="learning-in-progress">Это страница предназначена для полезной информации</p>
+        <p class="learning-in-progress">На данный момент тут пусто</p>
+    </body>
+</html>

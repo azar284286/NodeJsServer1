@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Привет!</title>
+        <link rel="shortcut icon" href="/Bropri.ico" type="image/x-icon">
+         <link rel="stylesheet" href="Style.css">
+    </head>
+    <body>
+        <h1>Добро пожаловать!</h1>
+        <p class="learning-in-progress">Эта главная страница, будьте счастливы.</p>
+    </body>
+</html>
